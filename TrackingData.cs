@@ -19,7 +19,7 @@ namespace Livestock_Tracking
     public partial class TrackingData : Form
     {
 
-        string connectionString = "Server=MOTHERSHIP\\SQLEXPRESS;Database=EastwoodFarm_DB;Integrated Security=True;";
+        string connectionString = "Server=VIVOBOOK\\SQLEXPRESS;Database=EastwoodFarm_DB;Integrated Security=True;";
         SqlConnection connection;
         SqlCommand command;
         SqlDataAdapter adapter;

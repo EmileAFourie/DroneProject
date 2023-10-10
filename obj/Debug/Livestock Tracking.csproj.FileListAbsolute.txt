@@ -69,3 +69,14 @@ C:\Users\emile\Downloads\DroneProject\Livestock Tracking(updated) (4)\Livestock 
 C:\Users\emile\Downloads\DroneProject\Livestock Tracking(updated) (4)\Livestock Tracking(updated)\Livestock Tracking\obj\Debug\Livestock Tracking.csproj.CoreCompileInputs.cache
 C:\Users\emile\Downloads\DroneProject\Livestock Tracking(updated) (4)\Livestock Tracking(updated)\Livestock Tracking\obj\Debug\Livestock Tracking.exe
 C:\Users\emile\Downloads\DroneProject\Livestock Tracking(updated) (4)\Livestock Tracking(updated)\Livestock Tracking\obj\Debug\Livestock Tracking.pdb
+C:\Users\carli\Downloads\DroneProject\bin\Debug\Livestock Tracking.exe.config
+C:\Users\carli\Downloads\DroneProject\bin\Debug\Livestock Tracking.exe
+C:\Users\carli\Downloads\DroneProject\bin\Debug\Livestock Tracking.pdb
+C:\Users\carli\Downloads\DroneProject\obj\Debug\Livestock Tracking.csproj.AssemblyReference.cache
+C:\Users\carli\Downloads\DroneProject\obj\Debug\Livestock_Tracking.Login.resources
+C:\Users\carli\Downloads\DroneProject\obj\Debug\Livestock_Tracking.Properties.Resources.resources
+C:\Users\carli\Downloads\DroneProject\obj\Debug\Livestock_Tracking.TrackingData.resources
+C:\Users\carli\Downloads\DroneProject\obj\Debug\Livestock Tracking.csproj.GenerateResource.cache
+C:\Users\carli\Downloads\DroneProject\obj\Debug\Livestock Tracking.csproj.CoreCompileInputs.cache
+C:\Users\carli\Downloads\DroneProject\obj\Debug\Livestock Tracking.exe
+C:\Users\carli\Downloads\DroneProject\obj\Debug\Livestock Tracking.pdb
